@@ -1,0 +1,25 @@
+{
+    "Search": [
+        {
+            "Title": "Shawshank Redemption",
+            "imdbID": "123ABC",
+            "Type": "drama",
+            "Poster": "...",
+            "Year": "1994"
+        },
+        {
+            "Title": "American Beauty",
+            "imdbID": "456DEF",
+            "Type": "drama",
+            "Poster": "...",
+            "Year": "1999"
+        },
+        {
+            "Title": "The Sixth Sense",
+            "imdbID": "789GHI",
+            "Type": "thriller",
+            "Poster": "...",
+            "Year": "1999"
+        }
+    ]
+}
