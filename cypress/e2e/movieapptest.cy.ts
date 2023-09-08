@@ -43,7 +43,7 @@ describe("Checks API functionality", () => {
     cy.get("p").contains("Inga sökresultat att visa").should("exist");
   });
   
-  it("Get error message if search field left empty", () => {
+  it("Get error message if search field is left empty", () => {
     cy.get("input").type(" ");
     cy.get("button").click();
     cy.get("p").contains("Inga sökresultat att visa").should("exist");
